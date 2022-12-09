@@ -1,4 +1,4 @@
-print('This is a program that will convert farenheit to celcius and vice versa')
+""" simple temperature unit converter """
 value = input('Temperature value: ')
 unit = input('Farenheit (F) or celcius (C) ? ')
 if unit == 'F':
